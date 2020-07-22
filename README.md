@@ -1,2 +1,2 @@
-# GCSO
-GCSO
+# collisionAlgorithm
+Algorithm to detect collision between two objects
